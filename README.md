@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @NoahHCollins
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me at noah.collins20@imperial.ac.uk
+- ⚙️ I'm using GitHub for various academic and freelance projects
+- 👀 I’m interested in engineering
+- 🌱 I’m currently learning data analysis 
+- 💞️ I’m not looking to collaborate on anything at the moment
+- 📫 You can reach me at noah_hcollins@icloud.com
 
 <!---
 NoahHCollins/NoahHCollins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
